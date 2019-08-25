@@ -9,5 +9,5 @@ Our online life is real life. We walk, talk, work, LOL and even love on the Inte
 
 ^^^ To install this addon, either use the <a href="https://www.tvaddons.co/github-browser-kodi/">Kodi Github installer</a> addon or save the .zip file downloaded from the 'clone or download' button above to somewhere the Kodi can access (e.g. network drive or USB stick). Then on the Kodi, go to addons > install from zip file.<br>
 
-<img src="http://i1.sndcdn.com/avatars-000591343872-cyz7bk-original.jpg"><br>
+<img src="https://cdn.simplecast.com/images/7dfa8d26-0674-443c-944c-bfd6457bf0cf/64782ca1-62f8-4b67-8bbe-f9c1808aeeb5/3000x3000/IRL_S5_Cover_Art.jpg?aid=rss_feed"><br>
 <a href="http://www.kodi.tv"><img src="https://kodi.tv/sites/default/files/page/field_image/about--devices.jpg">
