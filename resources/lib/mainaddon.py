@@ -23,7 +23,7 @@ def get_playable_podcast(soup):
         item = {
                 'url': link,
                 'title': title,
-                'thumbnail': "http://i1.sndcdn.com/avatars-000591343872-cyz7bk-original.jpg",
+                'thumbnail': "https://irlpodcast.org/images/episodes/S05E05/artwork.png",
         }
         subjects.append(item) 
     return subjects
@@ -52,7 +52,7 @@ def get_playable_podcast1(soup):
         item = {
                 'url': link,
                 'title': title,
-                'thumbnail': "http://i1.sndcdn.com/avatars-000591343872-cyz7bk-original.jpg",
+                'thumbnail': "https://irlpodcast.org/images/episodes/S05E05/artwork.png",
         }
         subjects.append(item) 
     print subjects
