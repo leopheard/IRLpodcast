@@ -2,8 +2,7 @@ from xbmcswift2 import Plugin, xbmcgui
 from resources.lib import mainaddon
 
 plugin = Plugin()
-URL = "http://feeds.soundcloud.com/users/soundcloud:users:152948051/sounds.rss"
-
+URL = "https://feeds.mozilla-podcasts.org/irl"
 @plugin.route('/')
 def main_menu():
     items = [

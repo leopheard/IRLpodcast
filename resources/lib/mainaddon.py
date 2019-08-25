@@ -7,7 +7,7 @@ def get_soup(url):
     soup = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup))
     return soup
-get_soup("http://feeds.soundcloud.com/users/soundcloud:users:152948051/sounds.rss")
+get_soup("https://feeds.mozilla-podcasts.org/irl")
 
 def get_playable_podcast(soup):
     subjects = []
