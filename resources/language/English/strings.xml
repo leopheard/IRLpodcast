@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <!-- Plugin name -->
+  <string id="30000">All episodes</string>
+  <string id="30001">Latest episodes</string>
+</strings>
