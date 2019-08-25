@@ -6,10 +6,10 @@ URL = "https://feeds.mozilla-podcasts.org/irl"
 @plugin.route('/')
 def main_menu():
     items = [
-   {
-            'label': plugin.get_string(30001), 
-            'path': plugin.url_for('all_episodes1'),
-            'thumbnail': "https://irlpodcast.org/images/episodes/S05E05/artwork.png"},
+#   {
+#            'label': plugin.get_string(30001), 
+#            'path': plugin.url_for('all_episodes1'),
+#            'thumbnail': "https://irlpodcast.org/images/episodes/S05E05/artwork.png"},
         {
             'label': plugin.get_string(30000), 
             'path': plugin.url_for('all_episodes'),
